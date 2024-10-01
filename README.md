@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Praveen Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7D227&vCenter=true&width=435&lines=MERN+Stack+Developer;Computer+Science+Graduate+from+SVIET%2C+Punjab;Competitive+Programmer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7D227&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Computer+Science+Graduate;Competitive+Programmer;Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 <br>
 
